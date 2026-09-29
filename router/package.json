@@ -1,0 +1,15 @@
+{
+  "name": "@bhoos/react-kit-router",
+  "version": "2.0.0-rc.8",
+  "description": "Bhoos Router Library",
+  "main": "src/index.ts",
+  "peerDependencies": {
+    "react": ">=17"
+  },
+  "repository": "https://github.com/bhoos/react-kit",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "author": "Ranjan Shrestha",
+  "license": "MIT"
+}

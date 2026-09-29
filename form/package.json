@@ -1,0 +1,15 @@
+{
+  "name": "@bhoos/react-kit-form",
+  "version": "1.0.0-rc.4",
+  "description": "Bhoos Form Library",
+  "main": "src/index.ts",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "peerDependencies": {
+    "react": ">=17"
+  },
+  "repository": "https://github.com/bhoos/react-kit",
+  "author": "Ranjan Shrestha",
+  "license": "MIT"
+}

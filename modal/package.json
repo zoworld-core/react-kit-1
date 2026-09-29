@@ -1,0 +1,16 @@
+{
+  "name": "@bhoos/react-kit-modal",
+  "version": "1.0.0-rc.3",
+  "description": "Bhoos Modal Library",
+  "main": "src/index.ts",
+  "peerDependencies": {
+    "react": ">=17",
+    "react-native": "*"
+  },
+  "repository": "https://github.com/bhoos/react-kit",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "author": "Ranjan Shrestha",
+  "license": "MIT"
+}
